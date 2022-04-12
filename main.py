@@ -16,7 +16,7 @@ class DDoSTopology(Topo):
         with open(os.path.join(os.getcwd(), IN_FOLDER, IN_FILE), 'r') as _network_paths:
             # Build node connections
             for _entry in _network_paths:
-                _source, _sink = int(entry.strip('\n').split(',')[0]), int(entry.strip('\n').split(',')[1])
+                _source, _sink = int(entry[0]), int(entry[1])
                 
                 if _source in _network_matrix.keys():
                     _network_matrix[_source].append(_sink)
