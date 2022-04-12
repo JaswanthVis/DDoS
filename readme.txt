@@ -17,8 +17,8 @@ The program outputs the sequence of identified routers and connected nodes to th
 
 # Contributors
 Guillermo Rodriguez     - Section: D01 - R00821937
-Yaswanth Kumar Chaganti
+Yaswanth Kumar Chaganti - Section: 003 - R11801037
 Pratyush Kumar
-Vijay Kumar Thanikonda
+Vijay Kumar Thanikonda  - Section: 003 - R11799896
 Jaswanth Vishnumolakala - Section: 003 - R11803373
 
