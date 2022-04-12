@@ -9,6 +9,9 @@ Run the code through the python command line as provided below.
 Python:     3.9.12
 mininet:    2.3.0
 
+# Operating System
+Ubuntu      16.04.6 LTS
+
 # Output
 The program outputs the sequence of identified routers and connected nodes to the out folder under the file name of routes.txt.
 
