@@ -63,8 +63,9 @@ if __name__ == "__main__":
                 _network_paths.write(str(entry[0]) + ',' + str(entry[1]) + '\n')
 
 
-        _topo =  DDoSTopology()
-        _topo.build()
+        # Call custom topology functionality
+        #_topo =  DDoSTopology()
+        #_topo.build()
 
     except Exception as err:
             print(err)
