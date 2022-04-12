@@ -16,7 +16,7 @@ Ubuntu      16.04.6 LTS
 The program outputs the sequence of identified routers and connected nodes to the out folder under the file name of routes.txt.
 
 # Contributors
-Guillermo Rodriguez -  R00821937
+Guillermo Rodriguez     - Section: D01 - R00821937
 Yaswanth Kumar Chaganti
 Pratyush Kumar
 Vijay Kumar Thanikonda
